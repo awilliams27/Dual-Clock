@@ -2,7 +2,7 @@
   "name": "website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://awilliams27.github.io/",
+  "homepage": "https://awilliams27.github.io/Dual-Clock/",
   "dependencies": {
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
