@@ -1,4 +1,4 @@
-GH pages hosted site can be viewed [here] (https://awilliams27.github.io/Dual-Clock/) .
+GH pages hosted site can be viewed [here](https://awilliams27.github.io/Dual-Clock/) .
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 

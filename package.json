@@ -1,8 +1,8 @@
 {
-  "name": "website",
+  "name": "dual-clock",
   "version": "0.1.0",
-  "private": true,
   "homepage": "https://awilliams27.github.io/Dual-Clock/",
+  "private": true,
   "dependencies": {
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
